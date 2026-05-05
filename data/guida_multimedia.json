@@ -1,0 +1,110 @@
+{
+  "full_course": {
+    "title": "Corso completo di formazione",
+    "subtitle": "Percorso guidato e approfondito sulle funzioni operative del gestionale con schermate reali del software.",
+    "slides": [
+      {
+        "key": "dashboard",
+        "title": "Dashboard iniziale",
+        "subtitle": "Panoramica immediata di card, grafici e posizione economica generale",
+        "audio_text": "Questa e la dashboard iniziale del gestionale. Da qui hai subito sotto controllo il numero dei tesserati dell'anno, i grafici principali di incassi e scadenze e la posizione economica generale. La dashboard serve come punto di partenza per orientarsi rapidamente e capire quali aree richiedono attenzione."
+      },
+      {
+        "key": "nuovo_associato",
+        "title": "Nuovo associato",
+        "subtitle": "Inserimento anagrafico completo, dati fiscali e recapiti",
+        "audio_text": "In questa schermata inserisci un nuovo associato. Il modulo raccoglie l'anagrafica completa, il codice fiscale, i recapiti, l'indirizzo e i dati utili per la gestione associativa. Durante il salvataggio il software genera automaticamente anche il tesseramento dell'anno di lavoro e accompagna poi alla scelta del pagamento."
+      },
+      {
+        "key": "storico_associati",
+        "title": "Anagrafica storica associati",
+        "subtitle": "Vista dinamica con colonne personalizzabili, filtri e ordinamenti",
+        "audio_text": "Questa e la vista storica dell'anagrafica associati. Qui puoi consultare tutti i soggetti registrati nel tempo, decidere quali colonne visualizzare, applicare filtri combinabili, ordinare i dati per ogni intestazione e memorizzare la tua vista personalizzata per i successivi accessi."
+      },
+      {
+        "key": "tesseramenti",
+        "title": "Rinnovo tesseramento",
+        "subtitle": "Assegnazione automatica del numero annuale e registrazione della quota",
+        "audio_text": "Questa e la maschera di rinnovo tesseramento. Il gestionale assegna automaticamente il numero di tesseramento dell'anno, propone la quota prevista e ti guida fino alla registrazione del pagamento e della ricevuta. In questo modo la posizione del tesserato resta sempre coerente con l'anno di lavoro selezionato."
+      },
+      {
+        "key": "tesserati",
+        "title": "Tesserati",
+        "subtitle": "Elenco operativo dell'anno con vista salvata e filtri per colonna",
+        "audio_text": "La pagina Tesserati mostra solo i soggetti che risultano tesserati nell'anno di lavoro attivo. Anche qui la tabella e dinamica: puoi spostare le colonne, selezionare solo i campi di tuo interesse, filtrare sopra ogni intestazione, esportare i dati gia filtrati e ritrovare la stessa configurazione al successivo accesso."
+      },
+      {
+        "key": "dettaglio_tesserato",
+        "title": "Dettaglio tesserato",
+        "subtitle": "Iscrizioni, scadenze e incassi del singolo soggetto in un'unica vista",
+        "audio_text": "Questa e la pagina di dettaglio del tesserato. Riunisce in un'unica schermata le iscrizioni effettuate, le scadenze ancora da saldare e gli incassi gia registrati. E particolarmente utile quando devi rispondere a una famiglia o verificare rapidamente la posizione reale di una singola persona."
+      },
+      {
+        "key": "consiglio_direttivo",
+        "title": "Consiglio direttivo",
+        "subtitle": "Card dedicate alle cariche associative con contatti ben leggibili",
+        "audio_text": "Questa sezione mette in evidenza i soggetti che hanno una carica diversa da associato. Le card sono pensate per una consultazione rapida e ordinata delle figure del consiglio direttivo, con indicazione chiara della carica e dei recapiti principali."
+      },
+      {
+        "key": "corsi",
+        "title": "Iscrizione ai corsi",
+        "subtitle": "Controllo del tesseramento, iscrizione e gestione delle quote mensili",
+        "audio_text": "Nella sezione Corsi puoi iscrivere un tesserato alle attivita continuative. Il programma controlla prima che il soggetto sia tesserato nell'anno in corso, poi gestisce l'iscrizione, l'eventuale pagamento iniziale e la generazione delle quote mensili, anche nel caso in cui si vogliano saldare mensilita future."
+      },
+      {
+        "key": "oratorio",
+        "title": "Iscrizione Oratorio",
+        "subtitle": "Contributo di iscrizione, ricevuta e gestione coerente dei pagamenti",
+        "audio_text": "Questa e la maschera Oratorio. Da qui puoi registrare l'iscrizione, applicare il contributo previsto, verificare il tesseramento dell'anno e decidere se procedere subito al pagamento. Se il pagamento viene registrato, il gestionale genera la relativa ricevuta e aggiorna la posizione economica del tesserato."
+      },
+      {
+        "key": "campo_estivo",
+        "title": "Campo estivo",
+        "subtitle": "Gestione iscrizioni stagionali e controllo dei contributi da saldare",
+        "audio_text": "Questa schermata riguarda il Campo estivo. Il flusso resta coerente con le altre aree: prima si verifica il tesseramento dell'anno, poi si registra l'iscrizione, si controllano le scadenze aperte e, se necessario, si procede subito con il pagamento e con la generazione della ricevuta."
+      },
+      {
+        "key": "eventi",
+        "title": "Eventi",
+        "subtitle": "Iscrizioni occasionali con pagamento e ricevuta in un unico flusso",
+        "audio_text": "La sezione Eventi e dedicata alle iniziative occasionali. Qui puoi registrare rapidamente l'iscrizione del tesserato, applicare l'importo dovuto, chiedere se procedere al pagamento e ottenere in modo immediato la ricevuta collegata all'evento selezionato."
+      },
+      {
+        "key": "pagamenti",
+        "title": "Pagamenti multi area",
+        "subtitle": "Un unico incasso per piu scadenze provenienti da aree diverse",
+        "audio_text": "La maschera Pagamenti consente di registrare un unico incasso che salda piu scadenze di aree diverse. Puoi selezionare manualmente le pendenze aperte del tesserato, includere quote future dei corsi e generare una sola ricevuta riepilogativa con tutte le voci effettivamente saldate."
+      },
+      {
+        "key": "report_posizione_tesserati",
+        "title": "Report posizione tesserati",
+        "subtitle": "Controllo puntuale di dovuto, pagato e residuo per ogni tesserato",
+        "audio_text": "Questo report aiuta a controllare la posizione economica dei tesserati nell'anno di lavoro. Per ogni soggetto puoi verificare quanto risulta dovuto, quanto e stato gia incassato e quale saldo residuo resta aperto, con la possibilita di filtrare, ordinare ed esportare la vista che stai consultando."
+      },
+      {
+        "key": "report_incassi",
+        "title": "Report e controlli",
+        "subtitle": "Analisi, esportazioni e stampa mantenendo i filtri applicati",
+        "audio_text": "Questa slide mostra uno dei report operativi del gestionale. Tutti i report permettono di filtrare per colonna, ordinare i dati, spostare le colonne e poi esportare o stampare esattamente la vista che stai consultando, senza perdere i filtri realmente applicati alla tabella."
+      },
+      {
+        "key": "backup",
+        "title": "Backup completo",
+        "subtitle": "Salvataggio amministrativo del gestionale con dati, runtime e ripristino",
+        "audio_text": "La sezione Backup e riservata all'amministratore e consente di creare uno zip completo del gestionale. Il file contiene database, applicazione, runtime e strumenti di ripristino, cosi da poter riportare il software sullo stesso computer o su un altro PC senza perdere dati o funzionalita."
+      },
+      {
+        "key": "import_excel",
+        "title": "Importa associati da Excel",
+        "subtitle": "Procedura amministrativa guidata con modello ufficiale e controllo duplicati",
+        "audio_text": "La pagina Importa associati e riservata all'amministratore. Da qui puoi scaricare il modello Excel ufficiale, compilarlo con i campi previsti e importarlo nel gestionale. Durante l'importazione vengono controllati i duplicati per evitare inserimenti ripetuti o incoerenti."
+      },
+      {
+        "key": "aggiornamenti",
+        "title": "Aggiornamenti",
+        "subtitle": "Installazione guidata del pacchetto versionato con verifica della versione",
+        "audio_text": "Questa e la pagina Aggiornamenti. L'amministratore puo selezionare il file zip del pacchetto di aggiornamento, verificarne la versione e poi avviare l'installazione guidata, mantenendo intatti i dati gia presenti nel software."
+      }
+    ]
+  }
+}
